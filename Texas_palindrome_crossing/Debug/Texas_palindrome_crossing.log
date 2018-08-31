@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Texas_palindrome_crossing.cpp
+c:\users\taxi\source\repos\texas_palindrome_crossing\texas_palindrome_crossing\texas_palindrome_crossing.cpp(34): warning C4101: 'innerloop': unreferenced local variable
+  Texas_palindrome_crossing.vcxproj -> c:\users\taxi\source\repos\Texas_palindrome_crossing\Debug\Texas_palindrome_crossing.exe
